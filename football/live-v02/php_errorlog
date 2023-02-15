@@ -1,0 +1,60 @@
+[24-Apr-2021 14:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_html() in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:25
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 25
+[24-Apr-2021 14:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_html() in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:25
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 25
+[24-Apr-2021 22:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[24-Apr-2021 22:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[07-May-2021 15:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[07-May-2021 15:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[07-May-2021 16:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[07-May-2021 16:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[24-May-2021 06:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[24-May-2021 06:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[24-May-2021 06:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
+[24-May-2021 06:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php:30
+Stack trace:
+#0 /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php(12): postRequestCapture(Array)
+#1 {main}
+  thrown in /home/customer/www/picktoto.com/public_html/public/football/live-v02/league.php on line 30
